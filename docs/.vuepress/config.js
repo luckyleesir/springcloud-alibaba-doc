@@ -5,5 +5,5 @@ module.exports = {
       ['link', { rel: 'icon', href: '/img/logo.ico' }],
       ['link', { rel: 'manifest', href: '/manifest.json' }],
   ],
-    base : '/springcloud-alibaba-doc'
+    base : '/springcloud-alibaba-doc/'
   }
